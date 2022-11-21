@@ -1,6 +1,6 @@
 import React from 'react'
-// import cryptoImg from "../public/assets/projects/cryptotrackerbig.png"
-// import climbImg from "../public/assets/projects/climbtracker.png"
+import cryptoImg from "../public/assets/projects/cryptotrackerbig.png"
+import climbImg from "../public/assets/projects/climbtracker.png"
 import ProjectItem from './ProjectItem';
 
 function Projects() {
@@ -12,12 +12,12 @@ function Projects() {
             <div className='grid md:grid-cols-2 gap-8'>
             <ProjectItem 
             title="Крипто Трекер" 
-            backgroundImg="/../public/assets/projects/cryptotrackerbig.png"
+            backgroundImg={cryptoImg}
             projectUrl="/crypto"
             />
             <ProjectItem
             title="Скалолазный Трекер"
-            backgroundImg="/../public/assets/projects/climbtracker.png"
+            backgroundImg={climbImg}
             projectUrl="/climbs"
             />
         
