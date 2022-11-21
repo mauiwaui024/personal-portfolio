@@ -3,7 +3,7 @@ import Link from 'next/link';
 import React, { useState, useEffect } from 'react';
 import * as AiIcons from "react-icons/ai"
 import * as FaIcons from "react-icons/fa"
-import NavLogo from './../public/assets/logo.png'
+import NavLogo from '../public/assets/logo.png'
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);

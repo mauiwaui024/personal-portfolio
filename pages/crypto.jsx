@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
-import cryptoImage from "./../public/assets/projects/cryptotracker.png"
+// import cryptoImage from "./../public/assets/projects/cryptotracker.png"
 import * as RiIcons from "react-icons/ri"
 export default function crypto() {
   return (
@@ -12,7 +12,7 @@ export default function crypto() {
         className='absolute z-1'
         layout='fill'
         objectFit='cover'
-        src={cryptoImage}
+        src="/../public/assets/projects/cryptotracker.png"
         alt='/'
       />
       <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
