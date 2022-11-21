@@ -1,6 +1,6 @@
 import React from 'react'
-import cryptoImg from "/public/assets/projectsimages/cryptotrackerbig.png"
-import climbImg from "/public/assets/projectsimages/climbtracker.png"
+import cryptoImg from "/public/assets/cryptotrackerbig.png"
+import climbImg from "/public/assets/climbtracker.png"
 import ProjectItem from './ProjectItem';
 
 function Projects() {
