@@ -1,7 +1,9 @@
+import Image from 'next/image';
 import React from 'react'
-import cryptoImg from "/public/assets/cryptotrackerbig.png"
-import climbImg from "/public/assets/climbtracker.png"
+import cryptoImg from "../public/assets/cryptotrackerbig.png"
+import climbImg from "../public/assets/climbtracker.png"
 import ProjectItem from './ProjectItem';
+
 
 function Projects() {
   return (
