@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
-import climbImage from "../public/assets/projectsimages/climbtracker.png"
+import climbImage from "/public/assets/projectsimages/climbtracker.png"
 import * as RiIcons from "react-icons/ri"
 export default function climbs() {
   return (

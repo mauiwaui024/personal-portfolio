@@ -13,7 +13,7 @@ function Skills() {
             <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
                 <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                     <div className='m-auto'>
-                        <Image src="/../public/assets/skills/html.png" alt="/" width="80" height="25"></Image>
+                        <Image src="/public/assets/skills/html.png" alt="/" width="80" height="25"></Image>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
                         <h3>HTML</h3>
@@ -27,7 +27,7 @@ function Skills() {
             <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
                 <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                     <div className='m-auto'>
-                        <Image src="/../public/assets/skills/css.png" alt="/" width="80" height="25"></Image>
+                        <Image src="/public/assets/skills/css.png" alt="/" width="80" height="25"></Image>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
                         <h3>CSS</h3>
@@ -41,7 +41,7 @@ function Skills() {
             <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
                 <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                     <div className='m-auto'>
-                        <Image src="/../public/assets/skills/javascript.png" alt="/" width="80" height="25"></Image>
+                        <Image src="/public/assets/skills/javascript.png" alt="/" width="80" height="25"></Image>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
                         <h3>JavaScript</h3>
@@ -54,7 +54,7 @@ function Skills() {
             <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
                 <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                     <div className='m-auto'>
-                        <Image src="/../public/assets/skills/typescript.png" alt="/" width="80" height="25"></Image>
+                        <Image src="/public/assets/skills/typescript.png" alt="/" width="80" height="25"></Image>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
                         <h3>TypeScript</h3>
@@ -67,7 +67,7 @@ function Skills() {
             <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
                 <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                     <div className='m-auto'>
-                        <Image src="/../public/assets/skills/react.png" alt="/" width="80" height="25"></Image>
+                        <Image src="/public/assets/skills/react.png" alt="/" width="80" height="25"></Image>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
                         <h3>React</h3>
@@ -80,7 +80,7 @@ function Skills() {
             <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
                 <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                     <div className='m-auto'>
-                        <Image src="/../public/assets/skills/node.png" alt="/" width="80" height="25"></Image>
+                        <Image src="/public/assets/skills/node.png" alt="/" width="80" height="25"></Image>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
                         <h3>Node.js</h3>
@@ -93,7 +93,7 @@ function Skills() {
             <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
                 <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                     <div className='m-auto'>
-                        <Image src="/../public/assets/skills/github1.png" alt="/" width="80" height="25"></Image>
+                        <Image src="/public/assets/skills/github1.png" alt="/" width="80" height="25"></Image>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
                         <h3>Github</h3>
@@ -106,7 +106,7 @@ function Skills() {
             <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
                 <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                     <div className='m-auto'>
-                        <Image src="/../public/assets/skills/postgres.png" alt="/" width="80" height="25"></Image>
+                        <Image src="/public/assets/skills/postgres.png" alt="/" width="80" height="25"></Image>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
                         <h3>PostgreSQl</h3>
@@ -120,7 +120,7 @@ function Skills() {
             <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
                 <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                     <div className='m-auto'>
-                        <Image src="/../public/assets/skills/mongo.png" alt="/" width="80" height="25"></Image>
+                        <Image src="/public/assets/skills/mongo.png" alt="/" width="80" height="25"></Image>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
                         <h3>MongoDB</h3>
