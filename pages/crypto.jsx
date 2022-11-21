@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
-import cryptoImage from "./../public/assets/projects/cryptotracker.png"
+import cryptoImage from "./../public/assets/projectsimages/cryptotracker.png"
 import * as RiIcons from "react-icons/ri"
 export default function crypto() {
   return (
