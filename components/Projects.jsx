@@ -3,7 +3,7 @@ import React from 'react'
 import cryptoImg from "../public/assets/cryptotrackerbig.png"
 import climbImg from "../public/assets/climbtracker.png"
 import ProjectItem from './ProjectItem';
-
+import todoImg from "../public/assets/todo2.png"
 
 function Projects() {
   return (
@@ -12,17 +12,24 @@ function Projects() {
             <p className='text-w tracking-widest uppercase text-[#5651e5]'>Проекты</p>
             <h2 className='py-4'>Все проекты учебные</h2>
             <div className='grid md:grid-cols-2 gap-8'>
-            <ProjectItem 
-            title="Крипто Трекер" 
-            backgroundImg={cryptoImg}
-            projectUrl="/crypto"
+            <ProjectItem
+              title="Todo приложение на firebase"
+              backgroundImg={todoImg}
+              projectUrl = "/todo"
             />
             <ProjectItem
             title="Скалолазный Трекер"
             backgroundImg={climbImg}
             projectUrl="/climbs"
             />
-        
+            <ProjectItem 
+            title="Крипто Трекер" 
+            backgroundImg={cryptoImg}
+            projectUrl="/crypto"
+            />
+            
+            
+
         
 
             </div>
